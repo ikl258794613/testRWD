@@ -1,0 +1,13 @@
+.gradul{
+    width: 100%;
+    height: auto;
+    /* background:url(../images/stephen.png), */
+    background: -webkit-linear-gradient(-90deg, rgb(22, 135, 237), rgb(20, 55, 90));
+}
+.logo{
+    width: 110px;
+    height: 24px;
+}
+.headeritem div a{
+    color: white;
+}
